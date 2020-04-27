@@ -4,7 +4,7 @@
        "foodName" : "Tuna Sandwich", 
        "prepTime" : 15, 
        "cookTime" : 0,
-       "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/1.jpg",
+       "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=JA-930RFSSE",
         "foodDescription" : "Sandwich made with tuna, mayonnaise, celery and onion" },
  
@@ -12,7 +12,7 @@
         "foodName" : "Ground Beef Taco",
         "prepTime" : 10,
         "cookTime" : 10,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/2.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=XQBqnhroqpE",
         "foodDescription" : "Mexican dish made with a fried tortilla filled with seasoned ground beef, beans, lettuce, and tomatoes" },
         
@@ -20,7 +20,7 @@
         "foodName" : "Burrito",
         "prepTime" : 20,
         "cookTime" : 25,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/3.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=5MEjPKenMb4",
         "foodDescription" : "Mexican dish of a tortilla rolled around a filling, with beans and grounded beef"      },
         
@@ -28,7 +28,7 @@
        "foodName" : "Philly Cheesesteak",
        "prepTime" : 15,
        "cookTime" : 30,
-       "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/4.jpg",
+       "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
        "foodSite" : "https://www.youtube.com/watch?v=4EgJh8Ltsng",
        "foodDescription" : "Sandwich containing thin-sliced sautéed beef, melted cheese, and sautéed onions, served in a long roll"  },
         
@@ -37,7 +37,7 @@
         "foodName" : "Chicken Curry",
         "prepTime" : 10,
          "cookTime": 20,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/5.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=WRYOVVexMhU",
         "foodDescription" : "Indian dish of chicken stewed in an onion- and tomato-based sauce, flavoured with ginger, garlic, tomato puree, chilli peppers and a variety of spices"},
         
@@ -46,7 +46,7 @@
         "foodName" : "Chicken Nuggets",
         "prepTime" : 20,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/6.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=njJ8FQXZmcE",         "foodDescription" : "Bite-sized pieces of chicken that are breaded or battered, then deep-fried or baked"   },
         
         
@@ -54,7 +54,7 @@
         "foodName" : "Chicken Taco",
         "prepTime" : 5,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/7.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=ReCMR47XtL0",
         "foodDescription" : "Mexican dish prepared with a fried tortilla filled with shredded chicken, beans, lettuce, and tomatoes" },
         
@@ -63,7 +63,7 @@
         "foodName" : "Chicken Teriyaki",
         "prepTime" : 5,
         "cookTime" : 12,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/8.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=AEUBQ7Ieub0",
         "foodDescription" : "Japanese dish of grilled chicken that has been marinated in a mixture of soy sauce, sugar or honey, garlic, ginger, and mirin"    },
         
@@ -72,7 +72,7 @@
         "foodName" : "Chicken Tikka Masala",
         "prepTime" : 15,
         "cookTime" : 30,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/9.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=HMfUsS9zeuw",
         "foodDescription" : "Indian dish of roasted marinated chicken in a spiced curry sauce"    },
         
@@ -81,7 +81,7 @@
         "foodName" : "Chicken Wings",
         "prepTime" : 10,
         "cookTime" : 45,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/10.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=ze39mtufeNE",
         "foodDescription"  : "Deep-fried chicken wing coated with a spicy sauce and served with dressing"     },
         
@@ -90,7 +90,7 @@
         "foodName" : "Fish and Chips",
         "prepTime" : 20,
         "cookTime" : 20,
-        "foodImageNanme" : "https://raw.githubusercontent.com/remo03/315p2json/master/11.jpg",
+        "foodImageNanme" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=qHl1MoXPXz0",
         "foodDescription" : "Dish of fried fish fillets served with French fries"    },
                 
@@ -98,7 +98,7 @@
         "foodName" : "Fish Taco",
         "prepTime" : 10,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/12.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=qDFqRxeEn9o",
         "foodDescription" : "Mexican dish consisting of a fried tortilla filled with shredded fish, beans, lettuce, and tomatoes"  },
                 
@@ -106,7 +106,7 @@
         "foodName" : "General Tso Chicken",
         "prepTime" : 15,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/13.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=aBRSi-3B8WQ",
         "foodDescription" : "Sweet and spicy dish of deep-fried chicken"      },
                 
@@ -114,7 +114,7 @@
         "foodName" : "Gyro",
         "prepTime" : 15,
         "cookTime" : 60,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/14.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=56kpEVhv_XI",
         "foodDescription" : "Sandwich consisting of beef, tomato, onion, and yogurt sauce on pita bread"    },
                 
@@ -122,7 +122,7 @@
         "foodName" : "Burger",
         "prepTime" : 10,
         "cookTime" : 10,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/15.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=L6yX6Oxy_J8",
         "foodDescription" : "Patty of ground beef, grilled and served on a bun, and garnished with condiments"     },
                 
@@ -130,7 +130,7 @@
         "foodName" : "Hotdog",
         "prepTime" : 15,
         "cookTime" : 3,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/16.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=y6wogkFWoIo",
         "foodDescription" : "Frankfurter served hot in a long, soft roll and topped with condiments"     },
                 
@@ -138,7 +138,7 @@
         "foodName" : "Hummus",
         "prepTime" : 75,
         "cookTime" : 60,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/17.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=EtU2f0qrGrY",
         "foodDescription" : "Middle Eastern dish consisting of a thick paste made from ground chickpeas and sesame seeds, olive oil, lemon, and garlic"     },
                 
@@ -146,7 +146,7 @@
         "foodName" : "Jerk Chicken",
         "prepTime" : 10,
         "cookTime" : 30,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/18.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=qfchrS2D_v4",
         "foodDescription" : "Jamaican dish of grilled chicken marinated in a spicy sauce"     },
                 
@@ -154,7 +154,7 @@
         "foodName" : "Korean Beef and Rice",
         "prepTime" : 60,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/19.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=zSJTeQktYDE",
         "foodDescription" : "Korean dish made of thin, marinated slices of beef grilled on a barbecue, served with rice"   },
                 
@@ -162,7 +162,7 @@
         "foodName" : "Kung Pao Chicken",
         "prepTime" : 10,
         "cookTime" : 10,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/20.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=jhXKCKCfB70",
         "foodDescription" : "Spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables, and chili peppers"   },
              
@@ -170,7 +170,7 @@
         "foodName" : "Lasagna",
         "prepTime" : 15,
         "cookTime" : 90,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/21.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=zVqunZUuwSs",
         "foodDescription" : "Baked Italian dish of wide strips of pasta cooked and layered with meat or vegetables, cheese, and tomato sauce"    },
                 
@@ -178,7 +178,7 @@
         "foodName" : "Lemon Salmon",
         "prepTime" : 5,
         "cookTime" : 20,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/22.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=-x2E7T3-r7k",
         "foodDescription" : "Cooked, seasoned salmon garnished with lemon"   },
                 
@@ -186,7 +186,7 @@
         "foodName" : "Orange Chicken",
         "prepTime" : 15,
         "cookTime" : 20,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/23.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=nrqsW5fPzAE",
         "foodDescription" : "Chinese dish consisting of chopped, battered and fried chicken pieces coated in a sweet orange-flavored chili sauce, which thickens or caramelizes to a glaze"    },
                 
@@ -194,7 +194,7 @@
         "foodName" : "Pizza",
         "prepTime" : 120,
         "cookTime" : 30,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/24.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=2TNY4B21ZFI",
         "foodDescription" : "Italian dish of consisting of a flat, round base of dough baked with a topping of tomato sauce and cheese, with additional meet and vegetable toppings,"     },
            
@@ -202,7 +202,7 @@
         "foodName" : "Quesadilla",
         "prepTime" : 20,
         "cookTime" : 20,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/25.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=E0G5Y2SOW0c",
         "foodDescription" : "Tortilla filled with cheese and heated"      },
                 
@@ -210,7 +210,7 @@
         "foodName" : "Shawarma",
         "prepTime" : 10,
         "cookTime" : 60,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/26.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=xttlxxpHXx8",
         "foodDescription" : "Roasted meat, cooked on a revolving spit and shaved for serving in sandwiches"      },
 
@@ -219,7 +219,7 @@
         "foodName" : "Shrimp Broccoli Stir Fry",
         "prepTime" : 5,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/27.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=f9uA6toLS-E",
         "foodDescription" : "Seasoned shrimp and brocolli served wth rice"     },
                 
@@ -227,7 +227,7 @@
         "foodName" : "Shrimp Fried Rice",
         "prepTime" : 15,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/28.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=cbn63DRhJ5E",
         "foodDescription" : "Seasoned shrimp served wth rice"  },
                 
@@ -235,7 +235,7 @@
         "foodName" : "Shrimp Pad Thai",
         "prepTime" : 10,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/29.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=F5-nfxQjfZU",
         "foodDescription" : "Thai dish of stir-fried noodles with egg, tamarind, and shrimp, garnished with peanuts"    },
               
@@ -243,7 +243,7 @@
         "foodName" : "Shrimp Salad",
         "prepTime" : 5,
         "cookTime" : 15,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/30.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=-COz5TVM5xU",
         "foodDescription" : "Shrimp served with lettuce, tomatoes, and cucumbers, covered with dressing"    },
        
@@ -251,7 +251,7 @@
         "foodName" : "Tandoori Chicken",
         "prepTime" : 8,
         "cookTime" : 35,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/31.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=K-lM3jfgClw",
         "foodDescription" : "Indian chicken dish prepared by roasting chicken marinated in yogurt and spices in a tandoor, a cylindrical clay oven"        },
         
@@ -259,7 +259,7 @@
         "foodName" : "Tuna Salad",
         "prepTime" : 15,
         "cookTime" : 0,
-        "foodImageName" : "https://raw.githubusercontent.com/remo03/315p2json/master/32.jpg",
+        "foodImageName" : "http://www.protogic.com/images/Old_Rag.jpg",
         "foodSite" : "https://www.youtube.com/watch?v=Yl30cSWgk8w",
         "foodDescription" : "TUna served with lettuce, tomatoes, and cucumbers, covered with dressing"     }
 
