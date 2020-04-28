@@ -90,7 +90,7 @@
         "foodName" : "Fish and Chips",
         "prepTime" : 20,
         "cookTime" : 20,
-        "foodImageNanme":"https://raw.githubusercontent.com/remo03/315p2json/master/11.jpg",
+        "foodImageName":"https://raw.githubusercontent.com/remo03/315p2json/master/11.jpg",
         "foodSite":"https://www.youtube.com/watch?v=qHl1MoXPXz0",
         "foodDescription" : "Dish of fried fish fillets served with French fries"    },
                 
